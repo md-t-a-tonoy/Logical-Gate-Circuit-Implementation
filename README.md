@@ -29,23 +29,9 @@ This repository contains the implementation of a logical gate circuit using the 
 
 ## Authors
 
-RIDAM ADITYA SINHA
-
-https://www.linkedin.com/in/ridam-sinha-188133210/
-
-ridamsinha20@gmail.com
+Md Thouhedul Alam Tonoy
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-
-This project was created as part of a challenge and utilizes the following tools and resources:
-
-- Circom programming language: [https://github.com/iden3/circom](https://github.com/iden3/circom)
-- Hardhat-Circom template: [https://github.com/cristianbrumat/hardhat-circom](https://github.com/cristianbrumat/hardhat-circom)
-- Solidity: [https://docs.soliditylang.org](https://docs.soliditylang.org)
-- OpenZeppelin Contracts: [https://docs.openzeppelin.com/contracts](https://docs.openzeppelin.com/contracts)
-
-Please refer to the respective documentation and repositories for more information on these tools.
